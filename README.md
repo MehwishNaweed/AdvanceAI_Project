@@ -14,7 +14,7 @@ as well as the sklearn fallback dataset.
 ---
 ### **1. Code/**
 Contains all executable code
-  - **centralized_federated_defense_model.ipynb**
+  - **centralized_federated_defense_model.py**
   Includes the full Google Colab notebook:  
   This notebook implements:
   - Centralized MLP Classifier  
